@@ -1,0 +1,28 @@
+name: Test sire
+favicon: null
+layout_spectrum: 0.4893935201689601
+typography_spectrum: 0.6261535845696926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.673242837190628
+  lightness: 0.16178603982552886
+  saturation: 0.27821010746993124
+  rhythmicContrast: 0.561594660859555
+purpose: []
